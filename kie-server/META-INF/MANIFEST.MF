@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Implementation-Title: KIE :: Execution Server :: Wars :: Distribution 
+ Wars
+Implementation-Version: 6.5.0.Final-redhat-2
+Archiver-Version: Plexus Archiver
+Java-Version: 1.8.0_111
+Built-By: mockbuild
+Scm-Connection: scm:git:git@github.com:droolsjbpm/droolsjbpm-integrati
+ on.git/kie-server-parent/kie-server-wars/kie-server
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: KIE :: Execution Server :: Wars :: Distribution W
+ ars
+Implementation-Vendor-Id: org.kie.server
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: https://github.com/droolsjbpm/droolsjbpm-integration/kie-serv
+ er-parent/kie-server-wars/kie-server
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 2.6.32-642.6.2.el6.x86_64
+Scm-Revision: 986dc1cdedb2e3d17096de15a9e778bb512229c6
+Created-By: Apache Maven 3.2.3
+Build-Jdk: 1.8.0_111
+Specification-Version: 6.5.0.Final-redhat-2
+Ignore-Scanning-Archives: cxf-api-2.7.18.SP1-redhat-1.jar,cxf-rt-bindi
+ ngs-soap-2.7.18.SP1-redhat-1.jar,cxf-rt-bindings-xml-2.7.18.SP1-redha
+ t-1.jar,cxf-rt-core-2.7.18.SP1-redhat-1.jar,cxf-rt-databinding-jaxb-2
+ .7.18.SP1-redhat-1.jar,cxf-rt-frontend-jaxws-2.7.18.SP1-redhat-1.jar,
+ cxf-rt-frontend-simple-2.7.18.SP1-redhat-1.jar,cxf-rt-transports-http
+ -2.7.18.SP1-redhat-1.jar,cxf-rt-ws-addr-2.7.18.SP1-redhat-1.jar,cxf-r
+ t-ws-policy-2.7.18.SP1-redhat-1.jar
+Implementation-URL: http://www.jboss.org/drools/kie-parent-with-depend
+ encies/droolsjbpm-integration/kie-server-parent/kie-server-wars/kie-s
+ erver
+
